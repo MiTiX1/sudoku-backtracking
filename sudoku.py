@@ -2,7 +2,7 @@ from typing import Tuple
 
 class Sudoku:
     """
-    Sudoku solver using backtracking algorithm
+    Sudoku solver using the backtracking algorithm
     The board must be a 2d array, the 'empty space' must be 0
     """
     def __init__(self, board):
