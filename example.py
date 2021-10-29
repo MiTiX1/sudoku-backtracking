@@ -11,6 +11,7 @@ BOARD = [
     [0,0,5,7,0,8,2,0,0],
     [0,0,2,0,3,0,8,0,0]
 ]
+
 def main():
     s = Sudoku(BOARD)
     s.print()
